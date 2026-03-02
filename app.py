@@ -104,4 +104,4 @@ if analyze_btn:
             st.success(f"🏆 Final: **{label_map.get(final_pred, str(final_pred))}**")
 
 st.markdown("---")
-st.caption("🎓 Tugas Besar NLP - STTC | 2024")
+st.caption("🎓 UAS-NLP-Candra-Nuralim-Fadilah | 2026")
