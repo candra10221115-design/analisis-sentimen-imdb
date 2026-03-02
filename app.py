@@ -170,4 +170,4 @@ if analyze_btn:
 
 # Footer
 st.markdown("---")
-st.caption("🎓 Tugas Besar NLP - STT Terpadu Nurul Fikri | 2024")
+st.caption("🎓 Tugas Besar NLP - STTC Candra Nuralim Fadilah | 2024")
